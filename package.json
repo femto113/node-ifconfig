@@ -1,0 +1,20 @@
+{
+  "name": "ifconfig",
+  "version": "0.0.1",
+  "description": "exec ifconfig and parse results into nested objects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/femto113/node-ifconfig.git"
+  },
+  "keywords": [
+    "ifconfig"
+  ],
+  "author": "Ken Woodruff <ken.woodruff@gmail.com>",
+  "license": "MIT",
+  "readmeFilename": "README.md",
+  "gitHead": "df242328056e22cd38de1cef802fd2a621e45c7b"
+}
